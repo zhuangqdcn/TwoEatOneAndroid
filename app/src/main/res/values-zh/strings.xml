@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">两碗吃一碗</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="can_not_choose_white">Black\'s turn. Can\'t choose white.</string>
+    <string name="can_not_choose_black">White\'s turn. Can\'t choose black.</string>
+    <string name="invalid_move">不能这么走……</string>
+
+    <string name="spinner_choose_vs">请选择:</string>
+    <string name="spinner_choose_ai">请选择电脑难度:</string>
+
+    <string-array name="spinner_vs">
+        <item>人人对战</item>
+        <item>人机对战（人先）</item>
+        <item>人机对战（AI先）</item>
+    </string-array>
+
+    <string-array name="spinner_ai">
+        <item>傻瓜电脑</item>
+        <item>简单电脑</item>
+        <item>中档电脑</item>
+        <item>困难电脑</item>
+    </string-array>
+
+
+    <string name="button_new_game">新游戏</string>
+    <string name="button_undo_last">悔棋</string>
+    <string name="button_quit">退出</string>
+
+    <string name="toast_new_game">新游戏开始了！</string>
+    <string name="toast_invalid_move">不能那么走……</string>
+
+    <string name="dialog_is_win">获胜！</string>
+    <string name="dialog_black_is_win">黑方获胜了！</string>
+    <string name="dialog_white_is_win">白方获胜了！</string>
+    <string name="about_dialog_about">两碗吃一碗是山东某些沿海城市的传统棋类游戏。
+        此安卓版是基于Java版两碗吃一碗来进行开发的，受GPL v2保护。如果你有任何的建议，请给我发送邮件到
+        zhuangqdcn@hotmail.com。</string>
+
+    <string name="about_dialog_donate">捐赠！</string>
+    <string name="about_dialog_OK">好的</string>
+
+</resources>

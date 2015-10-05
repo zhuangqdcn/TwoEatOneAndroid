@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TwoEatOneAndroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="can_not_choose_white">Black\'s turn. Can\'t choose white.</string>
+    <string name="can_not_choose_black">White\'s turn. Can\'t choose black.</string>
+    <string name="invalid_move">Invalid move!</string>
+
+    <string name="spinner_choose_vs">Please choose:</string>
+    <string name="spinner_choose_ai">Please choose AI level:</string>
+
+    <string-array name="spinner_vs">
+        <item>Player vs Player</item>
+        <item>Player vs AI</item>
+        <item>AI vs Player</item>
+    </string-array>
+
+    <string-array name="spinner_ai">
+        <item>Super Easy</item>
+        <item>Easy</item>
+        <item>Moderate</item>
+        <item>Hard</item>
+    </string-array>
+
+
+    <string name="button_new_game">New Game</string>
+    <string name="button_undo_last">Undo Last</string>
+    <string name="button_quit">Quit</string>
+
+    <string name="toast_new_game">A new game begins!</string>
+    <string name="toast_invalid_move">Invalid move!</string>
+
+    <string name="dialog_is_win">is win!</string>
+    <string name="dialog_black_is_win">Black is win!</string>
+    <string name="dialog_white_is_win">White is win!</string>
+    <string name="about_dialog_about">Two eat one is a traditional board game in eastern coast of
+        China. This Android version is based on the java version of TwoEatOne, and is
+        licensed under GPL v2. If you have any suggestions, please email me at
+        zhuangqdcn@hotmail.com.</string>
+
+    <string name="about_dialog_donate">Donate</string>
+    <string name="about_dialog_OK">OK</string>
+
+</resources>
